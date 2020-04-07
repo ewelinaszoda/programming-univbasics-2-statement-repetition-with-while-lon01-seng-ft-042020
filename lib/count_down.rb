@@ -1,8 +1,8 @@
 # Write your code here
 
-number == 10
-while number > 0 && number < 10 do
-puts "#{number}"
-number -= 1
+count = 10
+while count >= 1 && count =< 10 do
+puts "#{count}"
+count -= 1
 end 
 puts "Happy New Year!"
